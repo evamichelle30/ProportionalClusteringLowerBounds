@@ -1,4 +1,4 @@
-# Repository for "Improved Lower Bounds for Proportionally Fair Centroid Clustering"
+# Repository for "Improved Lower Bounds for Proportionally Fair Clustering"
 
 ## Verification
 
